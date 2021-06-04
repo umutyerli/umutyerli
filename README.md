@@ -1,6 +1,6 @@
 Umut Yerli | Consultant
 
-Skills (Use everyday)
+Languages (that I use everyday)
 - Java
 - Javascript
 - Solidity
